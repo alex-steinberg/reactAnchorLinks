@@ -7,3 +7,7 @@ We pivoted to a solution using refs and got it to work. However, I still don't u
 This app is an attempt to create the case where this pattern _does not_ work in a React app.
 
 Currently, the app is a failure because the links work. In time, I hope to update it and break it in order to understand what about our production app caused this pattern not to work.
+
+## To run
+
+Clone the repo and then `npm install` and `npm run dev`.
