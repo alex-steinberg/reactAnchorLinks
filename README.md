@@ -10,4 +10,10 @@ Currently, the app is a failure because the links work. In time, I hope to updat
 
 ## To run
 
-Clone the repo and then `npm install` and `npm run dev`.
+Clone the repo and then
+
+`npm install`
+
+`npm run dev`
+
+Navigate to http://127.0.0.1:5173/
